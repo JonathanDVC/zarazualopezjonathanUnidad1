@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    background-color: #f5f5f5;
+}
+
+nav{
+    margin-bottom: 20px;
+}
+
+nav a{
+    margin-right: 15px;
+    text-decoration: none;
+    color: #0066cc;
+    font-weight: bold;
+}
+
+h1,h2{
+    color: #333;
+}
+
+form{
+    width: 350px;
+}
+
+input,
+textarea{
+    width: 100%;
+    padding: 10px;
+    margin-top: 8px;
+    margin-bottom: 10px;
+}
+
+button{
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+p{
+    color: #444;
+}
